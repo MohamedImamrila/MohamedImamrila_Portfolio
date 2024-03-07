@@ -1,5 +1,5 @@
 # MohamedImamrila_Portfolio
-Example Portfolio for myself
+These are the Project done my myself as a task.
 
 ## [Project 1: Phone Book Using MongoDB And Python](MongoDB_Internal_Task.py) 
 
