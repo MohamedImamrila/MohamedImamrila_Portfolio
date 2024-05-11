@@ -71,7 +71,7 @@ class customerlogin:
             data2 = data1['amount'] + amount
             data3 = {"$set":{"amount":data2}}
             record.update_one(data1,data3)
-            print(f'Successfully {amount} is Debited' )
+            print(f'Successfully {amount} is Credited' )
         else:
             print('error')
     def balance(self):
